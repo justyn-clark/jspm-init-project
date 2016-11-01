@@ -1,0 +1,27 @@
+body {
+    background: #00abc8 !important;
+}
+body h1,
+body h2,
+body h3,
+h1 a {
+    color:white;
+}
+
+li {
+    list-style-type: none;
+    list-style-image: none;
+}
+
+body .button {
+    background-color: #5e001f;
+    text-transform: uppercase;
+}
+
+body .button:hover, body .button:focus {
+    background-color: #9d0031;
+    text-transform: uppercase;
+    outline: none;
+}
+
+
